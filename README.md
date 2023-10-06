@@ -4,6 +4,6 @@ Este é um projeto simples que oferece implementações de cinco algoritmos de o
 
 ## Como usar
 
-Copie as 3 classes deste repositório na sua IDE que contenha suporte para a linguagem Kotlin, aconselho o IntelliJ IDEA.
+Copie as 3 classes na pasta da aplicação deste repositório e adicione na sua IDE que contenha suporte para a linguagem Kotlin, aconselho o IntelliJ IDEA.
 
 Basta executar a classe Main que o processo ocorrerá normalmente.
