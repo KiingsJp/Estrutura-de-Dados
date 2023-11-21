@@ -51,10 +51,10 @@ public class Grafo {
             filaPrioridade.add(new VerticeComDistancia(cidade, distancias.get(cidade)));
         }
 
-        // ENQUANTO TIVER CIDADE NA FILA DE COMPRAÇÃO
+        // ENQUANTO TIVER CIDADE NA FILA DE COMPARAÇÃO
         while (!filaPrioridade.isEmpty()) {
 
-            // PEGA E REMOVE A CIDADE ATUAL PARA COMPARAÇÃO
+            // PEGA E REMOVE A CIDADE ATUAL DA LISTA DE COMPARAÇÃO
             VerticeComDistancia atual = filaPrioridade.poll();
 
             // SE CHEGOU NA CIDADE DE DESTINO, RETORNA A DISTANCIA
