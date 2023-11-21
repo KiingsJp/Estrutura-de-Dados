@@ -1,9 +1,9 @@
-# Projeto de Ordenação de Dados
+# Disciplina Estrutura de Dados Avançado
 
-Este é um projeto simples que oferece implementações de cinco algoritmos de ordenação diferentes (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort e Quick Sort) e fornece um comparativo de tempo de execução entre eles.
+Este repositório é focado na disciplina da faculdade, tendo minhas provas e trabalhos.
 
 ## Como usar
 
-Copie as 3 classes na pasta da aplicação deste repositório e adicione na sua IDE que contenha suporte para a linguagem Kotlin, aconselho o IntelliJ IDEA.
+Copie as classes na pasta da aplicação deste e adicione na sua IDE que contenha suporte para a linguagem Kotlin ou Java, aconselho o IntelliJ IDEA.
 
-Basta executar a classe MainApplication que o processo ocorrerá normalmente.
+Basta executar a classe Main que o processo ocorrerá normalmente.
